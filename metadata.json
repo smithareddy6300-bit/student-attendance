@@ -1,0 +1,6 @@
+{
+  "name": "Student Attendance Tracker",
+  "description": "Comprehensive student attendance management system with faculty and student portals, live roll call, roll-wise analytics, leave tracking, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
